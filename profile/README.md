@@ -5,7 +5,7 @@ Some of these include opinionated solutions, some to cut down costs at scale and
 
 ### What's in the list?
 
-The following projects are maintained, all of these hold an Apache-2.0 license. Do leave us a star if you like the projects.
+The following projects are maintained, and all of these hold an Apache-2.0 license. Do leave us a star if you like the projects.
 
 1. Towbar
 2. Mill
