@@ -13,5 +13,5 @@ The following projects are maintained, and all of these hold an Apache-2.0 licen
 
 ### About contributions
 
-Currently, we are not accepting contributions from public sources to curb the rise of automated pull requests and unavailability of dedicated resources to review and sign-off.
-We do accept feedback and issues reported via the respective repositories to triage and we strive to fix them at the earliest.
+- Currently, we are not accepting contributions from public sources to curb the rise of automated pull requests and the unavailability of dedicated resources to review and sign-off.
+- We do accept feedback and issues reported via the respective repositories to triage and we strive to fix them at the earliest.
