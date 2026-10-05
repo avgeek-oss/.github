@@ -1,5 +1,4 @@
-Avgeek OSS is our initiative to share projects we developed (openly) to overcome the problems we face as we build our core products.
-Some of these include opinionated solutions, some to cut down costs at scale and some solving new problems.
+Avgeek OSS contains open-source projects we built to solve problems on our own product building journey. Some of these include opinionated solutions, some to cut down costs at scale and some solving new problems.
 
 ---
 
