@@ -4,7 +4,7 @@ Avgeek OSS contains open-source projects we built to solve problems on our own p
 
 ### What's in the list?
 
-The following projects are maintained, and all of these hold an Apache-2.0 license. Do leave us a star if you like the projects.
+The following projects are maintained, and all of these hold an Apache-2.0 license. Do leave us a star if you like them.
 
 1. Towbar
 2. Mill
@@ -13,5 +13,5 @@ The following projects are maintained, and all of these hold an Apache-2.0 licen
 
 ### About contributions
 
-Currently, we are not accepting contributions from the public sources to curb the rise of automated pull requests and due to the unavailability of dedicated resources to review and sign-off them.
-While this is said, we do accept feedback and issues reported via the respective repositories to triage and fix them at the earliest.
+Currently, we are not accepting contributions from public sources to curb the rise of automated pull requests and unavailability of dedicated resources to review and sign-off.
+We do accept feedback and issues reported via the respective repositories to triage and we strive to fix them at the earliest.
