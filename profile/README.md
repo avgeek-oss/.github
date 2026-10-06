@@ -1,4 +1,4 @@
-Avgeek OSS contains open-source projects we built to solve problems on our own product building journey. Some of these include opinionated solutions, some to cut down costs at scale and some solving new problems.
+Avgeek OSS contains open-source projects we built to solve problems on our own product building journey. Some of these include opinionated solutions, some to cut down costs at scale and some solving fun new problems along the way (personal and business needs).
 
 ---
 
@@ -9,7 +9,7 @@ The following projects are maintained, and all of these hold an Apache-2.0 licen
 1. Towbar
 2. Mill
 3. Rootset
-4. Vitals
+4. Vitalog
 
 ### About contributions
 
