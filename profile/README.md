@@ -9,9 +9,8 @@ The following projects are maintained, and all of these hold an Apache-2.0 licen
 1. Towbar (towbar.dev)
 2. Mill (mill.fyi)
 3. Rootset (rootset.app)
-4. Vitalog (vitalog.dev)
-5. Illustrate
-6. DNSDeck (dnsdeck.app)
+4. Posted (posted.cc)
+5. Vitalog (vitalog.dev)
 
 ### About contributions
 
