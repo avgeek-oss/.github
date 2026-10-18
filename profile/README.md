@@ -10,7 +10,6 @@ The following projects are maintained, and all of these hold an Apache-2.0 licen
 2. Mill (mill.fyi)
 3. Rootset (rootset.app)
 4. Posted (posted.cc)
-5. Vitalog (vitalog.dev)
 
 ### About contributions
 
